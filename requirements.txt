@@ -1,0 +1,2 @@
+selenium==4.51.0
+click==8.5.0
